@@ -2,4 +2,4 @@
 
 Freecodecamp project 
 
-https://13thspringmorning.github.io/tech-documentation-page/
+https://13thspringmorning.github.io/Tech-documentation/
